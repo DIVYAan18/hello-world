@@ -17,6 +17,7 @@
     <hr>
     <br>
     <br>
+    <br>
 
     <br>
     <p>By creating an account you agree to our <a href="#">Terms & Privacy</a>.</p>
